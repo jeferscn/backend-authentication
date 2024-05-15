@@ -1,0 +1,12 @@
+POST localhost/api/users
+Content-Type:  application/json
+
+{
+  "name": "Jeferson",
+  "email": "email@email.com",
+  "password": "123"
+}
+
+
+###
+GET localhost/api/users
